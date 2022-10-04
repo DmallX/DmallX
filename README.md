@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frameworks, JS, MySQL, PHP, Python, TS**
 
-- 👨‍💻 All of my projects are available at [https://dmall-dev.github.io/](dmall-dev.github.io)
+- 👨‍💻 All of my projects are available at [dmall-dev.github.io](https://dmall-dev.github.io/)
 
 - 📫 How to reach me **dmallfrontend@gmail.com**
 
