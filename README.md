@@ -20,4 +20,5 @@
 
 ----
 [![Spotify recently played]![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=k6exo4kx0cd78lezikfy68wmi)](https://open.spotify.com/user/k6exo4kx0cd78lezikfy68wmi)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/user/jeffreyca16)
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
