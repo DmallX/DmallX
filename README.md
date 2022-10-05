@@ -1,3 +1,8 @@
+<style>
+  body{
+    background: url("https://media.giphy.com/media/t988uufli2JPfNoShM/giphy.gif");
+    }
+</style>
 <h1 align="center">Hi 👋, I'm Dmall</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
